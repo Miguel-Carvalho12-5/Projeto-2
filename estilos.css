@@ -1,0 +1,47 @@
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Arial;
+}
+
+h2 {
+    color: darkred;
+    font-family: Arial;
+}
+
+p {
+    font-family: Arial;
+}
+
+.destaque {
+    background-color: white;
+    color: darkblue;
+    margin: 20px;
+}
+
+div {
+    background-color: lightgray;
+    color: black;
+    font-family: Arial;
+    margin: 10px;
+}
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+}
+
+/*
+1. Desafio Técnico:
+A regra CSS mais difícil de aplicar foi a criação da classe .destaque. Consegui superar a dificuldade ao perceber que tinha de utilizar um ponto antes do nome da classe no CSS e aplicar essa classe ao parágrafo no HTML.
+
+2. Correção de Sintaxe:
+O erro mais comum foi esquecer-me de fechar algumas tags no HTML e de colocar pontos e vírgulas no CSS. Corrigi esses erros depois de testar a página no browser.
+
+3. Autoria:
+O atributo href serve para indicar o endereço de uma página ou site para onde o utilizador é encaminhado quando clica numa hiperligação. Neste trabalho, utilizei-o para permitir consultar mais informações sobre o filme The Blind Side.
+*/
